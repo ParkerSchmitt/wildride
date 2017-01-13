@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Deer (Week 1 #1)"
-date: 2017-1-10
+title: "Deer (Week 1 #2)"
+date: 2017-1-12
 categories:
   - Kansas Outdoors
 description: 
