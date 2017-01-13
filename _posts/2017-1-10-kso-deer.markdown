@@ -11,7 +11,7 @@ image-sm: /images/kansasoutdoors/kso.jpg
 
 # Deer
 
-![Sketch depicting a deer.](wildride/images/kansasoutdoors/kso.jpg)
+![Sketch depicting a deer.](/images/kansasoutdoors/kso.jpg)
 
 
 ## Background-information:
