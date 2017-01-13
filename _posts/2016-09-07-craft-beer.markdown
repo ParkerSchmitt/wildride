@@ -5,13 +5,13 @@ date: 2017-1-10
 categories:
   - Kansas Outdoors
 description: 
-image: /images/kansasoutdoors/KSO.jpg
-image-sm: /images/kansasoutdoors/KSO.jpg
+image: /images/kansasoutdoors/KSO.JPG
+image-sm: /images/kansasoutdoors/KSO.JPG
 ---
 
 # Deer
 
-![Sketch depicting a deer.](/images/kansasoutdoors/KSO.jpg)
+![Sketch depicting a deer.](/images/kansasoutdoors/KSO.JPG)
 
 
 ## Background-information:
