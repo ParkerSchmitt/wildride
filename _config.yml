@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Site settings
 email: 
 baseurl: ""
@@ -32,6 +32,4 @@ sass:
 
 # Gems
 gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
-=======
 theme: jekyll-theme-minimal
->>>>>>> fb95b2f51de3868385e926f248f61c37077c1261
